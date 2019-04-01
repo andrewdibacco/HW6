@@ -1,0 +1,7 @@
+C:\CC7\Homework\HW6\ConsoleTempConverter\HW6\obj\Debug\HW6.csprojAssemblyReference.cache
+C:\CC7\Homework\HW6\ConsoleTempConverter\HW6\obj\Debug\HW6.csproj.CoreCompileInputs.cache
+C:\CC7\Homework\HW6\ConsoleTempConverter\HW6\bin\Debug\HW6.exe.config
+C:\CC7\Homework\HW6\ConsoleTempConverter\HW6\bin\Debug\HW6.exe
+C:\CC7\Homework\HW6\ConsoleTempConverter\HW6\bin\Debug\HW6.pdb
+C:\CC7\Homework\HW6\ConsoleTempConverter\HW6\obj\Debug\HW6.exe
+C:\CC7\Homework\HW6\ConsoleTempConverter\HW6\obj\Debug\HW6.pdb
